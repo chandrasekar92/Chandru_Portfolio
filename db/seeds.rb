@@ -53,4 +53,4 @@ puts "9 portfolio items created"
 	)
 end
 
-puts "3 Technology item created"
+puts "3 Technology items created"
